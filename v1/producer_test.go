@@ -1,4 +1,4 @@
-package kafkaclient
+package v1
 
 import (
 	"context"
